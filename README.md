@@ -144,10 +144,10 @@
 
 ### Open source
 
-| Project | What it does | Stack |
-|---|---|---|
-| [herdr-strays](https://github.com/aleslanger/herdr-strays) | Terminal UI for herding stray git worktrees — browse projects, watch changed files live, read diffs and prompt Claude without leaving the panel | Rust |
-| [claude-plugin-bulk-update](https://github.com/aleslanger/claude-plugin-bulk-update) | Update every Claude Code plugin in a single command. Scope-aware (user/project/local), with dry-run and a Makefile | Shell |
-| [audit-claude-marketplace](https://github.com/aleslanger/audit-claude-marketplace) | Language-agnostic code audits and iterative fixes, packaged as Claude skills | Python |
-| [OpenAI-image-mcp-server](https://github.com/aleslanger/OpenAI-image-mcp-server) | MCP server for OpenAI gpt-image models — generate, edit and multi-turn edit images from any MCP client, with cost limits and spend logging | TypeScript |
-| [MailCatcher](https://github.com/aleslanger/MailCatcher) | Minimal MailCatcher image on Ruby 3.4 / Alpine — multi-stage build, non-root user, healthcheck | Docker |
+| Project                                                                              | What it does                                                                                                                                    | Stack      |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [herdr-strays](https://github.com/aleslanger/herdr-strays)                           | Terminal UI for herding stray git worktrees — browse projects, watch changed files live, read diffs and prompt Claude without leaving the panel | Rust       |
+| [claude-plugin-bulk-update](https://github.com/aleslanger/claude-plugin-bulk-update) | Update every Claude Code plugin in a single command. Scope-aware (user/project/local), with dry-run and a Makefile                              | Shell      |
+| [audit-claude-marketplace](https://github.com/aleslanger/audit-claude-marketplace)   | Language-agnostic code audits and iterative fixes, packaged as Claude skills                                                                    | Python     |
+| [OpenAI-image-mcp-server](https://github.com/aleslanger/OpenAI-image-mcp-server)     | MCP server for OpenAI gpt-image models — generate, edit and multi-turn edit images from any MCP client, with cost limits and spend logging      | TypeScript |
+| [MailCatcher](https://github.com/aleslanger/MailCatcher)                             | Minimal MailCatcher image on Ruby 3.4 / Alpine — multi-stage build, non-root user, healthcheck                                                  | Docker     |
