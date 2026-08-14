@@ -1,5 +1,3 @@
-<h1 align="center">Aleš Langer</h1>
-
 <p align="center">
   Backend developer. I write mostly <strong>PHP</strong> and <strong>Go</strong>.<br>
   Day to day that means APIs, message-driven services and the infrastructure that keeps them running —<br>
